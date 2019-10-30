@@ -10,7 +10,7 @@ import android.os.Build;
 import android.support.v4.app.NotificationCompat;
 
 /**
- * ~~~~~~文件描述:~~~~~~
+ * ~~~~~~文件描述:普通的notification~~~~~
  * ~~~~~~作者:huleiyang~~~~~~
  * ~~~~~~创建时间:2018/8/20~~~~~~
  * ~~~~~~更改时间:2018/8/20~~~~~~
